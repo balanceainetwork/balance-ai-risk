@@ -350,7 +350,7 @@ The ***position-data*** element defines all positions within the portfolio inclu
 
 ### More information
 
-More information can be found in our medium post at: [AI Expert System to Boost Trading](https://medium.com/)
+More information can be found in our medium post at: [AI Expert System to Boost Trading](https://balancedao.medium.com/ai-expert-system-to-boost-trading-bd0f871f603e)
 
 ### Disclaimer
 
