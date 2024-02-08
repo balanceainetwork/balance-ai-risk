@@ -14,7 +14,7 @@ When confronted with the task of handling extensive datasets, machine learning i
 
 **Balance AI Risk** - Comprehensive toolkit tailored to handle various aspects of risk assessment, decision-making, and strategy optimization. 
 
-Built as a Pythone module enriched by CLIPS expert systems programming language, it can empower traders and financial professionals to design robust risk management strategies, optimize their trading performance, and navigate the complexities of financial markets with greater confidence and efficiency.
+Built as a Python module enriched by CLIPS expert systems programming language, it can empower traders and financial professionals to design robust risk management strategies, optimize their trading performance, and navigate the complexities of financial markets with greater confidence and efficiency.
 
 > These are just a few use case that can be built using Balance AI Risk:
 > - build **risk management** models
