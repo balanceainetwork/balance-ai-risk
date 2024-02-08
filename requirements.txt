@@ -1,0 +1,10 @@
+Flask==2.1.0
+Werkzeug==2.2.2
+Flask-Cors==3.0.9
+Flask-JWT-Simple==0.0.3
+urllib3==1.25.10
+virtualenv==20.0.31
+virtualenvwrapper==4.8.4
+gunicorn==20.0.4
+pandas==1.1.2
+clipspy==0.3.3
