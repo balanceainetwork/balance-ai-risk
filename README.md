@@ -29,7 +29,7 @@ The project consists of three components:
 
 - Python framework to execute expert systems models.
 - CLIPS example model(s)
-- Docker containter allowing to run models as an API endpoints
+- Docker container allowing to run models as an API endpoints
 
 
 ## Requirements
@@ -325,7 +325,7 @@ Example payload:
     }
   }
 ```
-The ***position-data*** element defines all positions within the portfolio including the poistion that is being checked for risks. 
+The ***position-data*** element defines all positions within the portfolio including the position that is being checked for risks. 
 
 - "ot_pos_direction": "BUY" -> BUY/SELL transaction type
 - "ot_pos_opening": 34157.06 -> price of the position open
